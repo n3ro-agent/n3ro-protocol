@@ -2,7 +2,7 @@
   <img src="./images/n3oagent_avt3.png" alt="N3ro Team Logo" width="180" />
 </p>
 
-<h1 align="center">N3ro AI</h1>
+<h1 align="center">N3ro</h1>
 
 <p align="center">
   AI trading agent stack with ERC-8004 identity and x402 pay-per-trade gateway.
@@ -10,7 +10,7 @@
 
 <p  align="center">
     <a href="">Documentation</a> •
-    <a href="">X (Twitter)</a> •
+    <a href="https://x.com/n3ro_agents">X (Twitter)</a> •
     <a href="">Telegram</a> •
     <a href="">Discord</a>
 </p>
@@ -77,7 +77,7 @@ graph TD
 ## Monorepo Layout
 
 ```text
-n3roai/
+n3ro/
 ├── contracts/         # Hardhat EVM contracts
 ├── contracts-solana/  # Anchor Solana contracts
 ├── src/               # Node.js backend + x402
