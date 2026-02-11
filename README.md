@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/n3oagent_avt3.png" alt="N3ro Team Logo" width="180" />
+  <img src="./images/n3oagent_avt2.png" alt="N3ro Team Logo" width="180" />
 </p>
 
 <h1 align="center">N3ro</h1>
